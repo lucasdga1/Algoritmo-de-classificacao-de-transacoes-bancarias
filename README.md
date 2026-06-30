@@ -40,6 +40,7 @@
 ## Correlação entre operações fraudulentas e quantia movimentada
 <img width="1314" height="450" alt="FraudesXQuantia" src="https://github.com/user-attachments/assets/85f4a39c-deb4-4c27-a5cd-09062b6ca263" />
 * O gráfico acima indica que a maioria das transações fraudulentas se encontram num espectro de pequeno valor (até 849 mais ou menos)
+
 ## Correlação em relação a movimentações de pequenas quantias
 <img width="1314" height="450" alt="FraudesXPqQuantia" src="https://github.com/user-attachments/assets/98c4b461-2bd2-4afc-8297-d87c242e67aa" />
 * A quantia de pequenas transações legítimas é mais alta que as fraudulentas
